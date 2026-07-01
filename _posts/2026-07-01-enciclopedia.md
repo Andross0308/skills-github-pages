@@ -1,0 +1,4 @@
+---
+title: "Enciclopedia"
+date: 2026-07-01
+---
